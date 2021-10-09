@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JurassicMiner
-- 👀 I’m interested in Cloud security and automation technology
-- 🌱 I’m currently learning my pc.
-- 📫 How to reach me ...
+- 👀 I know c,c++ and Java
+- 🌱 I’m into learning cloud security and management
+- 📫 you can reach me on rmajumdar987@gmail.com
 
 <!---
 JurassicMiner/JurassicMiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
