@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JurassicMiner
+- 👋 Hi, I’m @raktim-22
 - 👀 I know c,c++ and Java
 - 🌱 I’m into learning cloud security and management
 - 📫 
